@@ -1,11 +1,14 @@
 import React from 'react'
+import './Button.css'
 
-function button() {
+const Button = ({imp, text, link}) => {
     return (
-        <div className = "button">
-            
+        <div className={`button ${imp ==='secondary' ? 'button_white' : ''}`}>
+            <a href={link}>
+                {text}
+            </a>
         </div>
     )
 }
 
-export default button
+export default Button;
