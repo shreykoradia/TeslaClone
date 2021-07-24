@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/TeslaClone/static/css/main.f5a94cfe.chunk.css",
+    "main.js": "/TeslaClone/static/js/main.352ac35f.chunk.js",
+    "main.js.map": "/TeslaClone/static/js/main.352ac35f.chunk.js.map",
+    "runtime-main.js": "/TeslaClone/static/js/runtime-main.0c9ce4bc.js",
+    "runtime-main.js.map": "/TeslaClone/static/js/runtime-main.0c9ce4bc.js.map",
+    "static/js/2.84357ce8.chunk.js": "/TeslaClone/static/js/2.84357ce8.chunk.js",
+    "static/js/2.84357ce8.chunk.js.map": "/TeslaClone/static/js/2.84357ce8.chunk.js.map",
+    "static/js/3.82a2e93b.chunk.js": "/TeslaClone/static/js/3.82a2e93b.chunk.js",
+    "static/js/3.82a2e93b.chunk.js.map": "/TeslaClone/static/js/3.82a2e93b.chunk.js.map",
+    "index.html": "/TeslaClone/index.html",
+    "static/css/main.f5a94cfe.chunk.css.map": "/TeslaClone/static/css/main.f5a94cfe.chunk.css.map",
+    "static/js/2.84357ce8.chunk.js.LICENSE.txt": "/TeslaClone/static/js/2.84357ce8.chunk.js.LICENSE.txt",
+    "static/media/Copy of teslaLogoSmall.a7b59bc6.svg": "/TeslaClone/static/media/Copy of teslaLogoSmall.a7b59bc6.svg",
+    "static/media/Desktop-Accessories.027ada94.jpg": "/TeslaClone/static/media/Desktop-Accessories.027ada94.jpg",
+    "static/media/Desktop-Model3.30651f79.jpeg": "/TeslaClone/static/media/Desktop-Model3.30651f79.jpeg",
+    "static/media/Desktop-ModelS.e3d22a07.jpeg": "/TeslaClone/static/media/Desktop-ModelS.e3d22a07.jpeg",
+    "static/media/Desktop-ModelX.83417303.jpeg": "/TeslaClone/static/media/Desktop-ModelX.83417303.jpeg",
+    "static/media/Desktop-ModelY.30acb76a.jpeg": "/TeslaClone/static/media/Desktop-ModelY.30acb76a.jpeg",
+    "static/media/Desktop-SolarPanels.d7d441d7.jpeg": "/TeslaClone/static/media/Desktop-SolarPanels.d7d441d7.jpeg",
+    "static/media/Desktop-SolarRoof.9eb2e602.jpeg": "/TeslaClone/static/media/Desktop-SolarRoof.9eb2e602.jpeg",
+    "static/media/index.css": "/TeslaClone/static/media/iCiel-Medium.b23bb62d.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c9ce4bc.js",
+    "static/js/2.84357ce8.chunk.js",
+    "static/css/main.f5a94cfe.chunk.css",
+    "static/js/main.352ac35f.chunk.js"
+  ]
+}
